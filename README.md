@@ -3,7 +3,7 @@
 I'm a passionate software developer specializing in full-stack development with a strong focus on JavaScript frameworks and libraries. 
 
 ## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Vinicius-Muller&show_icons=true&theme=radical)
 - **Total Stars Earned:** `###`
 - **Total Projects Contributed:** `###`
 - **Total Pull Requests:** `###`
