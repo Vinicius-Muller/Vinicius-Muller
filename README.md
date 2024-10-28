@@ -4,10 +4,6 @@ I'm a passionate software developer specializing in full-stack development with 
 
 ## 📊 GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Vinicius-Muller&show_icons=true&theme=radical)
-- **Total Stars Earned:** `###`
-- **Total Projects Contributed:** `###`
-- **Total Pull Requests:** `###`
-- **Total Repositories:** `###`
 
 ## 🚀 Current Stack
 Here are the technologies I use most often, with years of experience in each:
