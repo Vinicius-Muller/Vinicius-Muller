@@ -2,9 +2,6 @@
 
 I'm a passionate software developer specializing in full-stack development with a strong focus on JavaScript frameworks and libraries. 
 
-## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Vinicius-Muller&show_icons=true&theme=radical)
-
 ## 🚀 Current Stack
 Here are the technologies I use most often, with years of experience in each:
 
