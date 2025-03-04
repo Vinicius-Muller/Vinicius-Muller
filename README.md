@@ -12,6 +12,7 @@ Here are the technologies I use most often, with years of experience in each:
 - **React Native** ![React Native](https://img.icons8.com/color/20/000000/react-native.png) — 1 year
 - **Node.js** ![Node.js](https://img.icons8.com/color/20/000000/nodejs.png) — 4 years
 - **PHP** ![PHP](https://img.icons8.com/color/20/000000/php.png) — 2 years
+- **C++** ![PHP]([https://img.icons8.com/color/20/000000/php.png](https://img.icons8.com/color/20/000000/c-plus-plus-logo.png) — 1 years
 
 ---
 
