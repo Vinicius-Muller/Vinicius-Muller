@@ -9,8 +9,8 @@ I'm a passionate software developer specializing in full-stack development with 
 ![Level](https://img.shields.io/badge/React-Advanced-61DAFB?logo=react&logoColor=black)
 ![Level](https://img.shields.io/badge/Node.js-Advanced-339933?logo=node.js&logoColor=white)
 ![Level](https://img.shields.io/badge/PHP-Intermediate-777BB4?logo=php&logoColor=white)
+![Level](https://img.shields.io/badge/Java-Beginner-007396?logo=java&logoColor=white)
 ![Level](https://img.shields.io/badge/C++-Learning-00599C?logo=cplusplus&logoColor=white)
-![Level](https://img.shields.io/badge/Java-Learning-007396?logo=java&logoColor=white)
 
 
 ## 🚀 Current Stack
